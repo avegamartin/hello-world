@@ -1,0 +1,9 @@
+﻿Family Tree Builder Log File
+Issues Encountered during Import of C:\Users\Antonio\Documents\Mis ficheros importantes\Mi genealogía\Árboles genealógicos\General.ged
+
+Indexes Referenced but not Defined
+==================================
+@N1@
+@N2@
+@N3@
+@N4@
